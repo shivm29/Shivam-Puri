@@ -8,7 +8,7 @@ I'm a MERN stack developer with a passion for problem-solving, DSA, and learning
 
 ## 🔭 My Projects and Portfolio
 
-Check out my [portfolio website](https://shivm29.github.io/portfolio/) to explore the projects I've worked on. You'll find a variety of web applications and demos showcasing my skills in HTML, CSS, JavaScript, React, Firebase, Redux, Java, C, C++, and Data Structures and Algorithms.
+Check out my [portfolio website](https://shivamdev-blue.vercel.app/) to explore the projects I've worked on. You'll find a variety of web applications and demos showcasing my skills in HTML, CSS, JavaScript, React, Firebase, Redux, Java, C, C++, and Data Structures and Algorithms.
 
 ## 🌱 Currently Learning
 
@@ -18,9 +18,8 @@ I'm currently focusing on expanding my knowledge of React.js and diving deeper i
 
 Feel free to reach out to me if you have any questions or just want to chat about tech, programming, or anything else. I'm always eager to connect with fellow developers!
 
-- Email: puri46394@gmail.com
-- LinkedIn: [shivam-puri](https://linkedin.com/in/shivam-puri)
-- YouTube: [shivam-puri](https://www.youtube.com/c/shivam-puri)
+- Email: shivm.onweb@gmail.com
+- LinkedIn: [shivam-puri](https://www.linkedin.com/in/shivam-puri-goswami-041081200/)
 
 ## ⚡ Fun Fact
 
