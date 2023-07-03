@@ -1,25 +1,37 @@
-<img align="right" alt="Coding" width="100%" margin-bottom="20px" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966">
-<br>
-<h1 align="center">Hey there 👋, I'm Shivam</h1>
-<h3 align="center">A Second year undergrad who loves building kickass websites Problem solving, DSA and learning new technologies.</h3>
-<img align="right" alt="Coding" width="400" src="http://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🌱 I’m currently learning **React.js and Next.js**
-
-- 👨‍💻 All of my projects are available at [https://shivm29.github.io/portfolio/](https://shivm29.github.io/portfolio/)
-
-- 💬 Ask me about **CSS | JavaScript | React | Firebase | Redux | Java | C | C++ | Data Structures and Algorithm**
-
-- 📫 How to reach me **puri46394@gmail.com**
-
-- ⚡ Fun fact **I think I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shivam puri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam puri" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shivam puri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shivam puri" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966" alt="Coding" width="60%" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> </p>
+# Hey there! 👋 I'm Shivam.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivm29&" alt="shivm29" /></p>
+I'm a MERN stack developer with a passion for problem-solving, DSA, and learning new technologies. I enjoy building kickass websites and have a strong expertise in React.js. With 2+ years of experience in React and a solid understanding of the MERN stack, I love turning ideas into functional and visually appealing web applications.
+
+## 🔭 My Projects and Portfolio
+
+Check out my [portfolio website](https://shivm29.github.io/portfolio/) to explore the projects I've worked on. You'll find a variety of web applications and demos showcasing my skills in HTML, CSS, JavaScript, React, Firebase, Redux, Java, C, C++, and Data Structures and Algorithms.
+
+## 🌱 Currently Learning
+
+I'm currently focusing on expanding my knowledge of React.js and diving deeper into Next.js. I believe in continuous learning to stay up-to-date with the latest trends and improve my development skills.
+
+## 💬 Let's Connect
+
+Feel free to reach out to me if you have any questions or just want to chat about tech, programming, or anything else. I'm always eager to connect with fellow developers!
+
+- Email: puri46394@gmail.com
+- LinkedIn: [shivam-puri](https://linkedin.com/in/shivam-puri)
+- YouTube: [shivam-puri](https://www.youtube.com/c/shivam-puri)
+
+## ⚡ Fun Fact
+
+I have a great sense of humor (or at least I think I do!). Don't hesitate to share a joke or two with me!
+
+## 🚀 Languages and Tools
+
+Here are some of the languages and tools I work with:
+
+HTML | CSS | JavaScript | React | Redux | Firebase | Java | C | C++ | Data Structures and Algorithms
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shivm29&show_icons=true&theme=radical" alt="shivm29's GitHub Stats" />
+</p>
