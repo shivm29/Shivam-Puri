@@ -12,7 +12,7 @@ Check out my [portfolio website](https://shivamdev-blue.vercel.app/) to explore 
 
 ## 🌱 Currently Learning
 
-I'm currently focusing on expanding my knowledge of React.js and diving deeper into Next.js. I believe in continuous learning to stay up-to-date with the latest trends and improve my development skills.
+I'm currently honing my problem solving skills in Data Structures and Algorithm.
 
 ## 💬 Let's Connect
 
