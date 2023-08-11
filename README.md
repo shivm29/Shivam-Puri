@@ -8,11 +8,11 @@ I'm a MERN stack developer with a passion for problem-solving, DSA, and learning
 
 ## 🔭 My Projects and Portfolio
 
-Check out my [portfolio website](https://shivamdev-blue.vercel.app/) to explore the projects I've worked on. You'll find a variety of web applications and demos showcasing my skills in HTML, CSS, JavaScript, React, Firebase, Redux, Java, C, C++, and Data Structures and Algorithms.
+Check out my [portfolio website](https://shivamdev-blue.vercel.app/) to explore the projects I've worked on. You'll find a variety of web applications and demos showcasing my skills in HTML, CSS, JavaScript, MERN, Redux, C, C++, and Data Structures and Algorithms.
 
 ## 🌱 Currently Learning
 
-I'm currently honing my problem solving skills in Data Structures and Algorithm.
+I'm currently honing my problem solving skills in Data Structures and Algorithm & MERN Stack.
 
 ## 💬 Let's Connect
 
